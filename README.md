@@ -1,4 +1,5 @@
 # quiz
+AI generated quiz
 
 #/server
 go run *.go
